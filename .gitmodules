@@ -1,4 +1,4 @@
 [submodule "zlib"]
-	path = zlib
+	path = zlib/source/zlib
 	url = https://github.com/madler/zlib.git
 	branch = v1.2.11
